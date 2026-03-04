@@ -46,6 +46,7 @@ Structured-Cognitive-Loop-Skills/
 │   └── memory-system.md               # 记忆系统设计
 │
 ├── skills/                            # OpenClaw Skills（安装到 .openclaw/skills/）
+│   ├── goal-setting/SKILL.md          # 目标设定入口：解析→写入→验证→确认
 │   ├── scl-control/SKILL.md           # Control 层：执行前约束验证
 │   ├── scl-memory/SKILL.md            # Memory 层：结构化跨轮状态读写
 │   ├── recap-decompose/SKILL.md       # ReCAP：抽象目标分解为任务树
