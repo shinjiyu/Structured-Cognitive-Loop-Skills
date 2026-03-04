@@ -40,6 +40,7 @@ Structured-Cognitive-Loop-Skills/
 ├── INSTALL.md                         # 安装指南
 │
 ├── docs/                              # 设计文档（理解框架用）
+│   ├── paradigm-shift.md              # ⭐ 范式跃迁：为什么 Heartbeat 改变了一切
 │   ├── design-background.md           # 设计背景与动机（详细版）
 │   ├── architecture.md                # 整体架构与运行机制
 │   ├── atomic-capabilities.md         # 原子能力集定义
